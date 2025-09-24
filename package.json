@@ -1,0 +1,1 @@
+{"name":"discord-nickname-bot","version":"1.0.0","description":"Discord bot that changes nickname when message starts with 'I'm'","main":"app.js","scripts":{"start":"node app.js"},"dependencies":{"discord.js":"^14.0.0","dotenv":"^16.0.0"}}
